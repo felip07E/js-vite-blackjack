@@ -2,7 +2,7 @@
 
 Pasos para ejecutar proyecto:
 
-1. 
+1.  Clonar repositorio
 2.
 3.
 4.
